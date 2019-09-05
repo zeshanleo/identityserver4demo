@@ -1,0 +1,13 @@
+C:\Development\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\Development\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\Development\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Development\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\Development\quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\Development\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\Development\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Development\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\Development\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Development\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Development\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\Development\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\Development\quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.pdb

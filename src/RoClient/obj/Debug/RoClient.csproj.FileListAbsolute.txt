@@ -1,0 +1,15 @@
+C:\Development\quickstart\src\RoClient\obj\Debug\RoClient.csprojAssemblyReference.cache
+C:\Development\quickstart\src\RoClient\obj\Debug\RoClient.csproj.CoreCompileInputs.cache
+C:\Development\quickstart\src\RoClient\bin\Debug\RoClient.exe.config
+C:\Development\quickstart\src\RoClient\bin\Debug\RoClient.exe
+C:\Development\quickstart\src\RoClient\bin\Debug\RoClient.pdb
+C:\Development\quickstart\src\RoClient\bin\Debug\IdentityModel.dll
+C:\Development\quickstart\src\RoClient\bin\Debug\Newtonsoft.Json.dll
+C:\Development\quickstart\src\RoClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Development\quickstart\src\RoClient\bin\Debug\IdentityModel.pdb
+C:\Development\quickstart\src\RoClient\bin\Debug\IdentityModel.xml
+C:\Development\quickstart\src\RoClient\bin\Debug\Newtonsoft.Json.xml
+C:\Development\quickstart\src\RoClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Development\quickstart\src\RoClient\obj\Debug\RoClient.csproj.CopyComplete
+C:\Development\quickstart\src\RoClient\obj\Debug\RoClient.exe
+C:\Development\quickstart\src\RoClient\obj\Debug\RoClient.pdb
